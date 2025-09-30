@@ -46,7 +46,7 @@ Para rodar este projeto localmente, siga os passos:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/jaquelinetrevizan/angular-error-handling.git
+git clone https://github.com/jaquetrevizan/angular-error-handling.git
 
 # Acesse o diretório do projeto
 cd angular-error-handling
